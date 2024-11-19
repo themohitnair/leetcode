@@ -1,2 +1,3 @@
 # leetcode-py
-Leetcode + Neetcode journey
+
+My Leetcode Python Journey documented!
